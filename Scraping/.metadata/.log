@@ -1172,3 +1172,6 @@ java.net.SocketTimeoutException
 	at org.python.pydev.editor.codecompletion.revisited.SynchSystemModulesManager.synchronizeManagerToNameToInfoPythonpath(SynchSystemModulesManager.java:390)
 	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler$SynchJob.run(SyncSystemModulesManagerScheduler.java:261)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.python.pydev.shared_core 4 4 2016-03-16 18:03:23.271
+!MESSAGE Info: Rebuilding internal caches: C:\Users\lucy\Documents\GitHub\Duke-STEAM-Modern-Language-Project\Scraping\.metadata\.plugins\org.eclipse.core.resources\.projects\Instagram Scraping\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
