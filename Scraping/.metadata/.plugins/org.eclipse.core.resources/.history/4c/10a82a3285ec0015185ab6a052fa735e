@@ -1,0 +1,22 @@
+'''
+Created on Mar 17, 2016
+Scraping Instagram comments using Instagram API
+@author: lucy
+'''
+from instagram.client import InstagramAPI
+import urllib2
+
+CLIENT_ID='4364f2b6963b4592916a5e7b705eeb65'
+client_secret='dc8f51dcfcfc4a89b466707d1ee5b275'
+access_token='3039584474.4364f2b.086a1a1ce4564d218067ef62f5d69553'
+shortcode='BDDjQOZL25A'
+media_url='https://api.instagram.com/v1/media/'+shortcode+'/D?access_token='+access_token
+print media_url
+print urllib2.urlopen(media_url).read()
+
+'''
+api = InstagramAPI(access_token=access_token, client_secret=client_secret)
+recent_media, next_ = api.user_recent_media(user_id="dango_ramen", access_token=access_token,count = 10)
+for media in recent_media:
+    print media.caption.text
+'''

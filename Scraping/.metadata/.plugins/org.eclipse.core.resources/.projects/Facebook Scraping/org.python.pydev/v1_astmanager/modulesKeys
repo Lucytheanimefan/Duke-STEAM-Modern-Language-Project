@@ -1,1 +1,5 @@
 MODULES_MANAGER_V2
+Facebook_scraping|C:\Users\lucy\Documents\GitHub\Duke-STEAM-Modern-Language-Project\Scraping\Facebook Scraping\Facebook_scraping.py
+Post_info|C:\Users\lucy\Documents\GitHub\Duke-STEAM-Modern-Language-Project\Scraping\Facebook Scraping\Post_info.py
+getPost_Page|C:\Users\lucy\Documents\GitHub\Duke-STEAM-Modern-Language-Project\Scraping\Facebook Scraping\getPost_Page.py
+get_Reactions_emojis|C:\Users\lucy\Documents\GitHub\Duke-STEAM-Modern-Language-Project\Scraping\Facebook Scraping\get_Reactions_emojis.py
