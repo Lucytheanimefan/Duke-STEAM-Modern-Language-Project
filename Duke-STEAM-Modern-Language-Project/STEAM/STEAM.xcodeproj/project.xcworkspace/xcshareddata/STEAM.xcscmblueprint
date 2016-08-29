@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DFE73F8531CE5CCE0F3A6BDF68E9C8B6F0F32699",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5ECFCFAC263190F7DA827791209323DD7A0E445B" : 0,
+    "DFE73F8531CE5CCE0F3A6BDF68E9C8B6F0F32699" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FFDA677D-1612-45EE-BACC-2F1165A1E642",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5ECFCFAC263190F7DA827791209323DD7A0E445B" : "..",
+    "DFE73F8531CE5CCE0F3A6BDF68E9C8B6F0F32699" : "STEAM.xcodeproj\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lucytheanimefan\/Duke-STEAM-Modern-Language-Project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5ECFCFAC263190F7DA827791209323DD7A0E445B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xjasminelu\/STEAM.xcodeproj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DFE73F8531CE5CCE0F3A6BDF68E9C8B6F0F32699"
+    }
+  ]
+}
